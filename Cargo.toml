@@ -1,0 +1,15 @@
+[package]
+name = "mentasuave01_matcha_shop"
+version = "0.1.0"
+authors = ["Metasuave01 <mentasuave01@gmail.com"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow = "1.0"
+borsh = "0.9"
+smart_contract = { git = "https://github.com/parallelchain-io/parallelchain-sdk.git" }
