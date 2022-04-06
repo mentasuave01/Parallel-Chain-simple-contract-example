@@ -3,7 +3,9 @@
 This is a simple demo of smart contract in parallel chain<br> 
 
 You can interact with it at:<br> 
-◽Contract address: "3FCI7oThxiSkHJfM4wiQsWl2h1tthwoAsSjcngon4Lo="<br> 
+
+◽Contract address: "m+u2ShUdKazLYJbgpHK/HqUanfXGU7zXZwfj/4Fon6I="<br>
+https://testnet.parallelchain.io/explorer/transactions/details?transaction_hash=tNLVkdTgZYgycWHyCYIo9SlZB0KC5XowqSuyAU7DJF8=<br>
 ◽Calling new(..arguments):<br> 
 
 Arguments must be:
